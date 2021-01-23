@@ -1,0 +1,364 @@
+**************************************************
+Process: 1244 explorer.exe
+Cache type "URL " at 0x52e6000
+Record length: 0x180
+Location: https://www.jam-software.de/customers/includes/functions.js
+Last modified: 2015-09-11 10:49:30 UTC+0000
+Last accessed: 2015-09-23 10:14:47 UTC+0000
+File Offset: 0x180, Data Offset: 0xa4, Data Length: 0xb4
+File: functions[1].js
+Data: HTTP/1.0 200 OK
+ETag: "5a07c2-29a1-51f7678646280"
+Content-Type: application/javascript
+Content-Length: 10657
+
+~U:ieuser
+
+**************************************************
+Process: 1244 explorer.exe
+Cache type "URL " at 0x52e6180
+Record length: 0x180
+Location: https://www.jam-software.de/fonts/stylesheetIE.css
+Last modified: 2015-09-11 10:49:30 UTC+0000
+Last accessed: 2015-09-23 10:14:47 UTC+0000
+File Offset: 0x180, Data Offset: 0x9c, Data Length: 0xb0
+File: stylesheetIE[1].css
+Data: HTTP/1.0 200 OK
+ETag: "581091-16a-51f7678646280"
+Content-Type: text/css
+Content-Length: 362
+
+~U:ieuser
+
+**************************************************
+Process: 1244 explorer.exe
+Cache type "URL " at 0x52e6300
+Record length: 0x180
+Location: https://www.jam-software.de/web/js/modernizr-2.7.min.js
+Last modified: 2015-09-11 10:49:38 UTC+0000
+Last accessed: 2015-09-23 10:14:47 UTC+0000
+File Offset: 0x180, Data Offset: 0xa0, Data Length: 0xb8
+File: modernizr-2.7.min[1].js
+Data: HTTP/1.0 200 OK
+ETag: "64077f-3900-51f7678de7480"
+Content-Type: application/javascript
+Content-Length: 14592
+
+~U:ieuser
+
+**************************************************
+Process: 1244 explorer.exe
+Cache type "URL " at 0x52e6480
+Record length: 0x180
+Location: https://www.jam-software.de/css/reset_v4.css
+Last modified: 2015-09-11 10:49:57 UTC+0000
+Last accessed: 2015-09-23 10:14:47 UTC+0000
+File Offset: 0x180, Data Offset: 0x98, Data Length: 0xa8
+File: reset_v4[1].css
+Data: HTTP/1.0 200 OK
+ETag: "580fa9-297-51f767a005f40"
+Content-Type: text/css
+Content-Length: 663
+
+~U:ieuser
+
+**************************************************
+Process: 1244 explorer.exe
+Cache type "URL " at 0x52e6600
+Record length: 0x180
+Location: https://www.jam-software.de/css/screen_v4.css
+Last modified: 2015-09-21 14:23:59 UTC+0000
+Last accessed: 2015-09-23 10:14:47 UTC+0000
+File Offset: 0x180, Data Offset: 0x98, Data Length: 0xac
+File: screen_v4[1].css
+Data: HTTP/1.0 200 OK
+ETag: "581ad1-15632-52042a1db7dc0"
+Content-Type: text/css
+Content-Length: 87602
+
+~U:ieuser
+
+**************************************************
+Process: 1244 explorer.exe
+Cache type "URL " at 0x52e6780
+Record length: 0x180
+Location: https://www.jam-software.de/css/shop_v4.css
+Last modified: 2015-09-11 10:49:57 UTC+0000
+Last accessed: 2015-09-23 10:14:47 UTC+0000
+File Offset: 0x180, Data Offset: 0x94, Data Length: 0xa4
+File: shop_v4[1].css
+Data: HTTP/1.0 200 OK
+ETag: "580fad-4c5a-51f767a005f40"
+Content-Type: text/css
+Content-Length: 19546
+
+~U:ieuser
+
+**************************************************
+Process: 1244 explorer.exe
+Cache type "URL " at 0x52e6900
+Record length: 0x180
+Location: https://www.jam-software.de/img/icons/TreeSize-Icon-16.png
+Last modified: 2015-09-11 10:51:41 UTC+0000
+Last accessed: 2015-09-23 10:14:48 UTC+0000
+File Offset: 0x180, Data Offset: 0xa4, Data Length: 0xbc
+File: TreeSize-Icon-16[1].png
+Data: HTTP/1.0 200 OK
+ETag: "6005c1-16f-51f7680334940"
+Content-Length: 367
+Content-Type: image/png
+
+~U:ieuser
+
+**************************************************
+Process: 1244 explorer.exe
+Cache type "URL " at 0x52e6a80
+Record length: 0x180
+Location: https://www.jam-software.de/img/icons/UltraSearch-Icon-16.png
+Last modified: 2015-09-11 10:51:41 UTC+0000
+Last accessed: 2015-09-23 10:14:48 UTC+0000
+File Offset: 0x180, Data Offset: 0xa8, Data Length: 0xc4
+File: UltraSearch-Icon-16[1].png
+Data: HTTP/1.0 200 OK
+ETag: "6005da-195-51f7680334940"
+Content-Length: 405
+Content-Type: image/png
+
+~U:ieuser
+
+**************************************************
+Process: 1244 explorer.exe
+Cache type "URL " at 0x52e6f00
+Record length: 0x180
+Location: https://www.jam-software.de/web/js/jquery.tools.min.js
+Last modified: 2015-09-11 10:49:38 UTC+0000
+Last accessed: 2015-09-23 10:14:48 UTC+0000
+File Offset: 0x180, Data Offset: 0xa0, Data Length: 0xb8
+File: jquery.tools.min[1].js
+Data: HTTP/1.0 200 OK
+ETag: "641e95-22ae5-51f7678de7480"
+Content-Type: application/javascript
+Content-Length: 142053
+
+~U:ieuser
+
+**************************************************
+Process: 1244 explorer.exe
+Cache type "URL " at 0x52e7200
+Record length: 0x180
+Location: https://www.jam-software.de/img/icons/TreeSizeFree-Icon-16.png
+Last modified: 2015-09-11 10:51:41 UTC+0000
+Last accessed: 2015-09-23 10:14:48 UTC+0000
+File Offset: 0x180, Data Offset: 0xa8, Data Length: 0xc4
+File: TreeSizeFree-Icon-16[1].png
+Data: HTTP/1.0 200 OK
+ETag: "6005c7-130-51f7680334940"
+Content-Length: 304
+Content-Type: image/png
+
+~U:ieuser
+
+**************************************************
+Process: 1244 explorer.exe
+Cache type "URL " at 0x52e7380
+Record length: 0x180
+Location: https://www.jam-software.de/img/icons/SmartPOP2Exchange-Icon-16.png
+Last modified: 2015-09-11 10:51:41 UTC+0000
+Last accessed: 2015-09-23 10:14:48 UTC+0000
+File Offset: 0x180, Data Offset: 0xac, Data Length: 0xd0
+File: SmartPOP2Exchange-Icon-16[1].png
+Data: HTTP/1.0 200 OK
+ETag: "60058d-186-51f7680334940"
+Content-Length: 390
+Content-Type: image/png
+
+~U:ieuser
+
+**************************************************
+Process: 1244 explorer.exe
+Cache type "URL " at 0x52e7500
+Record length: 0x180
+Location: https://www.jam-software.de/img/icons/SpamAssassin-Icon-16.png
+Last modified: 2015-09-11 10:51:41 UTC+0000
+Last accessed: 2015-09-23 10:14:48 UTC+0000
+File Offset: 0x180, Data Offset: 0xa8, Data Length: 0xc4
+File: SpamAssassin-Icon-16[1].png
+Data: HTTP/1.0 200 OK
+ETag: "6005a5-19b-51f7680334940"
+Content-Length: 411
+Content-Type: image/png
+
+~U:ieuser
+
+**************************************************
+Process: 1244 explorer.exe
+Cache type "URL " at 0x52e7680
+Record length: 0x180
+Location: https://www.jam-software.de/img/icons/SpamAssassinInaBox-Icon-16.png
+Last modified: 2015-09-11 10:51:41 UTC+0000
+Last accessed: 2015-09-23 10:14:48 UTC+0000
+File Offset: 0x180, Data Offset: 0xb0, Data Length: 0xd4
+File: SpamAssassinInaBox-Icon-16[1].png
+Data: HTTP/1.0 200 OK
+ETag: "6005ac-108-51f7680334940"
+Content-Length: 264
+Content-Type: image/png
+
+~U:ieuser
+
+**************************************************
+Process: 1244 explorer.exe
+Cache type "URL " at 0x52e7800
+Record length: 0x180
+Location: https://www.jam-software.de/img/icons/VirtualTreeview-Icon-16.png
+Last modified: 2015-09-11 10:51:41 UTC+0000
+Last accessed: 2015-09-23 10:14:48 UTC+0000
+File Offset: 0x180, Data Offset: 0xac, Data Length: 0xcc
+File: VirtualTreeview-Icon-16[1].png
+Data: HTTP/1.0 200 OK
+ETag: "6005e0-17e-51f7680334940"
+Content-Length: 382
+Content-Type: image/png
+
+~U:ieuser
+
+**************************************************
+Process: 1244 explorer.exe
+Cache type "URL " at 0x52e7980
+Record length: 0x180
+Location: https://www.jam-software.de/img/icons/ShellBrowserComponents-Icon-16.png
+Last modified: 2015-09-11 10:51:41 UTC+0000
+Last accessed: 2015-09-23 10:14:48 UTC+0000
+File Offset: 0x180, Data Offset: 0xb4, Data Length: 0xdc
+File: ShellBrowserComponents-Icon-16[1].png
+Data: HTTP/1.0 200 OK
+ETag: "60056f-1c2-51f7680334940"
+Content-Length: 450
+Content-Type: image/png
+
+~U:ieuser
+
+**************************************************
+Process: 1244 explorer.exe
+Cache type "URL " at 0x52e7b00
+Record length: 0x180
+Location: https://www.jam-software.de/img/icons/SEPA-Transfer-Icon-16.png
+Last modified: 2015-09-11 10:51:41 UTC+0000
+Last accessed: 2015-09-23 10:14:48 UTC+0000
+File Offset: 0x180, Data Offset: 0xa8, Data Length: 0xc8
+File: SEPA-Transfer-Icon-16[1].png
+Data: HTTP/1.0 200 OK
+ETag: "600563-153-51f7680334940"
+Content-Length: 339
+Content-Type: image/png
+
+~U:ieuser
+
+**************************************************
+Process: 1244 explorer.exe
+Cache type "URL " at 0x52e7c80
+Record length: 0x180
+Location: https://www.jam-software.de/img/icons/SmartSerialMailFree-Icon-16.png
+Last modified: 2015-09-11 10:51:41 UTC+0000
+Last accessed: 2015-09-23 10:14:48 UTC+0000
+File Offset: 0x180, Data Offset: 0xb0, Data Length: 0xd4
+File: SmartSerialMailFree-Icon-16[1].png
+Data: HTTP/1.0 200 OK
+ETag: "600597-149-51f7680334940"
+Content-Length: 329
+Content-Type: image/png
+
+~U:ieuser
+
+**************************************************
+Process: 1244 explorer.exe
+Cache type "URL " at 0x52e7e00
+Record length: 0x180
+Location: https://www.jam-software.de/img/icons/HeavyLoad-Icon-16.png
+Last modified: 2015-09-11 10:51:41 UTC+0000
+Last accessed: 2015-09-23 10:14:48 UTC+0000
+File Offset: 0x180, Data Offset: 0xa4, Data Length: 0xc0
+File: HeavyLoad-Icon-16[1].png
+Data: HTTP/1.0 200 OK
+ETag: "60054c-186-51f7680334940"
+Content-Length: 390
+Content-Type: image/png
+
+~U:ieuser
+
+**************************************************
+Process: 1244 explorer.exe
+Cache type "URL " at 0x52e7f80
+Record length: 0x180
+Location: https://www.jam-software
+Last modified: 2015-09-11 10:51:41 UTC+0000
+Last accessed: 2015-09-23 10:14:48 UTC+0000
+File Offset: 0x180, Data Offset: 0xac, Data Length: 0xcc
+File: -
+Data: -
+**************************************************
+Process: 1244 explorer.exe
+Cache type "URL " at 0x5335000
+Record length: 0x100
+Location: Cookie:ieuser@www.jam-software.de/
+Last modified: 2015-09-23 10:14:49 UTC+0000
+Last accessed: 2015-09-23 10:14:49 UTC+0000
+File Offset: 0x100, Data Offset: 0x8c, Data Length: 0x0
+File: B2CN56WK.txt
+**************************************************
+Process: 1244 explorer.exe
+Cache type "URL " at 0x5335100
+Record length: 0x100
+Location: Cookie:ieuser@www.jam-software.de/
+Last modified: 2015-09-23 10:14:49 UTC+0000
+Last accessed: 2015-09-23 10:14:49 UTC+0000
+File Offset: 0x100, Data Offset: 0x8c, Data Length: 0x0
+File: A80WDN3D.txt
+**************************************************
+Process: 1244 explorer.exe
+Cache type "URL " at 0x5385000
+Record length: 0x100
+Location: Visited: IEUser@https://www.microsoft.com
+Last modified: 2018-12-27 12:46:48 UTC+0000
+Last accessed: 2018-12-27 12:46:48 UTC+0000
+File Offset: 0x100, Data Offset: 0x0, Data Length: 0x94
+**************************************************
+Process: 1244 explorer.exe
+Cache type "URL " at 0x5385100
+Record length: 0x100
+Location: Visited: IEUser@file:///C:/Users/IEUser/Desktop/OSEF0B7.tmp
+Last modified: 2020-08-18 12:53:10 UTC+0000
+Last accessed: 2020-08-18 12:53:10 UTC+0000
+File Offset: 0x100, Data Offset: 0x0, Data Length: 0xa4
+**************************************************
+Process: 1244 explorer.exe
+Cache type "URL " at 0x5385200
+Record length: 0x180
+Location: Visited: IEUser@https://dev.modern.ie/welcome/Win7/IE8/20150916
+Last modified: 2015-09-23 10:45:10 UTC+0000
+Last accessed: 2015-09-23 10:45:10 UTC+0000
+File Offset: 0x180, Data Offset: 0x0, Data Length: 0xa8
+**************************************************
+Process: 1244 explorer.exe
+Cache type "URL " at 0x5385380
+Record length: 0x100
+Location: Visited: IEUser@file:///C:/Users/IEUser/Desktop/DbgChild.Beta.10.zip
+Last modified: 2018-12-27 12:10:05 UTC+0000
+Last accessed: 2018-12-27 12:10:05 UTC+0000
+File Offset: 0x100, Data Offset: 0x0, Data Length: 0xb0
+**************************************************
+Process: 1244 explorer.exe
+Cache type "URL " at 0x5386000
+Record length: 0x180
+Location: Visited: IEUser@https://dev.modern.ie/welcome/Win7/IE8/20150916
+Last modified: 2015-09-23 10:45:08 UTC+0000
+Last accessed: 2015-09-23 10:45:08 UTC+0000
+File Offset: 0x180, Data Offset: 0x0, Data Length: 0xa8
+**************************************************
+Process: 1244 explorer.exe
+Cache type "URL " at 0x5386180
+Record length: 0x180
+Location: Visited: IEUser@https://dev.modern.ie/welcome/Win7/IE8/20150916
+Last modified: 2015-09-23 10:45:09 UTC+0000
+Last accessed: 2015-09-23 10:45:09 UTC+0000
+File Offset: 0x180, Data Offset: 0x0, Data Length: 0xa8

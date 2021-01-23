@@ -1,0 +1,27 @@
+confax.exe
+
+https://blog.cyberint.com/covid-19-ongoing-cyber-updates
+https://e.cyberint.com/hubfs/Cyberint-COVID-19%20Threat%20Landscape%20Summary-Report.pdf
+https://www.bitdefender.com/files/News/CaseStudies/study/379/Bitdefender-Whitepaper-Chinese-APT.pdf
+https://sebdraven.medium.com/winnti-uses-the-rtf-exploit-8-t-too-targets-vietnam-13300d432272
+https://unit42.paloaltonetworks.com/unit42-analysis-of-cve-2017-11882-exploit-in-the-wild/
+
+bitcoin miner
+
+https://sensorstechforum.com/conhost-exe-cryptocurrency-miner-virus-how-to-detect-remove
+
+strings from malwares
+
+https://github.com/mikesxrs/Open-Source-YARA-rules/blob/master/g00dv1n/Malware.BitCoinMiner.yar
+https://github.com/acastillorobles77/MalwareDatabase
+https://github.com/acastillorobles77/MalwareDatabase/blob/master/Virus.VBS.Karma.zip
+-> lookslikeyourfuckednow!",0+16,"you'refuckednow!madebyt3chyy#0001ondiscord")
+
+ryuk
+
+https://www.logpoint.com/en/blog/ryuk-ransomware/
+https://www.crowdstrike.com/blog/big-game-hunting-with-ryuk-another-lucrative-targeted-ransomware/
+https://www.cert.ssi.gouv.fr/uploads/CERTFR-2020-CTI-011.pdf
+https://any.run/report/ff6cf716e149e90fb979ace00a8d565bc279add41b0f211b7fd17e425c1cafcd/6da14204-e0e0-4dc6-89a6-9c036b380275
+https://redcanary.com/blog/ryuk-ransomware-attack/
+https://securityliterate.com/reversing-ryuk-a-technical-analysis-of-ryuk-ransomware/

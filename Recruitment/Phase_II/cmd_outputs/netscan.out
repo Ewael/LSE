@@ -1,0 +1,43 @@
+Offset(P)          Proto    Local Address                  Foreign Address      State            Pid      Owner          Created
+0x7e2b2f50         UDPv4    127.0.0.1:65318                *:*                                   3568     svchost.exe    2020-10-29 13:27:35 UTC+0000
+0x7e225208         TCPv4    0.0.0.0:49156                  0.0.0.0:0            LISTENING        432      lsass.exe      
+0x7e225208         TCPv6    :::49156                       :::0                 LISTENING        432      lsass.exe      
+0x7e5d58f0         UDPv4    0.0.0.0:0                      *:*                                   1524     svchost.exe    2020-10-29 13:23:31 UTC+0000
+0x7e5d58f0         UDPv6    :::0                           *:*                                   1524     svchost.exe    2020-10-29 13:23:31 UTC+0000
+0x7e5eeb48         UDPv4    0.0.0.0:0                      *:*                                   1524     svchost.exe    2020-10-29 13:23:31 UTC+0000
+0x7e6177b8         UDPv4    0.0.0.0:53970                  *:*                                   1060     svchost.exe    2020-10-29 13:24:11 UTC+0000
+0x7e64fc70         UDPv6    ::1:1900                       *:*                                   3568     svchost.exe    2020-10-29 13:27:35 UTC+0000
+0x7e65c9c0         UDPv4    127.0.0.1:1900                 *:*                                   3568     svchost.exe    2020-10-29 13:27:35 UTC+0000
+0x7eb89b78         UDPv4    0.0.0.0:0                      *:*                                   1060     svchost.exe    2020-10-29 15:21:18 UTC+0000
+0x7eb89b78         UDPv6    :::0                           *:*                                   1060     svchost.exe    2020-10-29 15:21:18 UTC+0000
+0x7eb95938         UDPv4    0.0.0.0:3702                   *:*                                   948      svchost.exe    2020-10-29 13:27:36 UTC+0000
+0x7e49ab68         TCPv4    0.0.0.0:22                     0.0.0.0:0            LISTENING        280      sshd.exe       
+0x7e581490         TCPv4    0.0.0.0:49156                  0.0.0.0:0            LISTENING        432      lsass.exe      
+0x7e584190         TCPv4    0.0.0.0:49155                  0.0.0.0:0            LISTENING        416      services.exe   
+0x7e584190         TCPv6    :::49155                       :::0                 LISTENING        416      services.exe   
+0x7e594958         TCPv4    0.0.0.0:445                    0.0.0.0:0            LISTENING        4        System         
+0x7e594958         TCPv6    :::445                         :::0                 LISTENING        4        System         
+0x7e5a83c0         TCPv4    0.0.0.0:22                     0.0.0.0:0            LISTENING        280      sshd.exe       
+0x7e5a83c0         TCPv6    :::22                          :::0                 LISTENING        280      sshd.exe       
+0x7e64ff58         TCPv4    0.0.0.0:49152                  0.0.0.0:0            LISTENING        348      wininit.exe    
+0x7e651d90         TCPv4    0.0.0.0:135                    0.0.0.0:0            LISTENING        684      svchost.exe    
+0x7e651d90         TCPv6    :::135                         :::0                 LISTENING        684      svchost.exe    
+0x7e6523d0         TCPv4    0.0.0.0:49152                  0.0.0.0:0            LISTENING        348      wininit.exe    
+0x7e6523d0         TCPv6    :::49152                       :::0                 LISTENING        348      wininit.exe    
+0x7e654190         TCPv4    0.0.0.0:135                    0.0.0.0:0            LISTENING        684      svchost.exe    
+0x7e687460         TCPv4    0.0.0.0:49153                  0.0.0.0:0            LISTENING        772      svchost.exe    
+0x7e68a490         TCPv4    0.0.0.0:49153                  0.0.0.0:0            LISTENING        772      svchost.exe    
+0x7e68a490         TCPv6    :::49153                       :::0                 LISTENING        772      svchost.exe    
+0x7e7b1910         TCPv4    0.0.0.0:49154                  0.0.0.0:0            LISTENING        848      svchost.exe    
+0x7e7b1910         TCPv6    :::49154                       :::0                 LISTENING        848      svchost.exe    
+0x7e7b5298         TCPv4    0.0.0.0:49154                  0.0.0.0:0            LISTENING        848      svchost.exe    
+0x7e7ccb38         TCPv4    0.0.0.0:49155                  0.0.0.0:0            LISTENING        416      services.exe   
+0x7fc1eb60         UDPv4    0.0.0.0:65320                  *:*                                   948      svchost.exe    2020-10-29 13:27:36 UTC+0000
+0x7fc1eb60         UDPv6    :::65320                       *:*                                   948      svchost.exe    2020-10-29 13:27:36 UTC+0000
+0x7fd05b30         UDPv4    0.0.0.0:3702                   *:*                                   948      svchost.exe    2020-10-29 13:27:36 UTC+0000
+0x7fd0e918         UDPv4    0.0.0.0:3702                   *:*                                   948      svchost.exe    2020-10-29 13:27:36 UTC+0000
+0x7fd0e918         UDPv6    :::3702                        *:*                                   948      svchost.exe    2020-10-29 13:27:36 UTC+0000
+0x7fd294a0         UDPv4    0.0.0.0:65319                  *:*                                   948      svchost.exe    2020-10-29 13:27:36 UTC+0000
+0x7fd40f50         UDPv4    0.0.0.0:3702                   *:*                                   948      svchost.exe    2020-10-29 13:27:36 UTC+0000
+0x7fd40f50         UDPv6    :::3702                        *:*                                   948      svchost.exe    2020-10-29 13:27:36 UTC+0000
+0x7fd6b500         UDPv6    ::1:65317                      *:*                                   3568     svchost.exe    2020-10-29 13:27:35 UTC+0000

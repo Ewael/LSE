@@ -1,0 +1,55 @@
+Offset(P)  Name                    PID pslist psscan thrdproc pspcid csrss session deskthrd ExitTime
+---------- -------------------- ------ ------ ------ -------- ------ ----- ------- -------- --------
+0x7fb84980 icacls.exe             3312 True   False  True     True   True  True    False    
+0x7f64c760 conhost.exe            3332 True   False  True     True   True  True    True     
+0x7fb4b120 r.exe                  3224 True   False  True     True   True  True    True     
+0x7f6ec4e8 net.exe                 868 True   False  True     True   True  True    False    
+0x7e676d88 svchost.exe             772 True   False  True     True   True  True    True     
+0x7e78da68 explorer.exe           1244 True   False  True     True   True  True    True     
+0x7f28e4e8 net.exe                2700 True   False  True     True   True  True    False    
+0x7e9fd810 VBoxService.ex          620 True   False  True     True   True  True    False    
+0x7e9fb1d8 svchost.exe             684 True   False  True     True   True  True    True     
+0x7e4481d8 vmicsvc.exe            1560 True   False  True     True   True  True    True     
+0x7e6f4aa0 SearchIndexer.         2136 True   False  True     True   True  True    True     
+0x7e71fb60 svchost.exe            1060 True   False  True     True   True  True    True     
+0x7e77fb60 dwm.exe                1228 True   False  True     True   True  True    True     
+0x7e474aa8 vmicsvc.exe            1652 True   False  True     True   True  True    False    
+0x7e477fb0 vmicsvc.exe            1680 True   False  True     True   True  True    True     
+0x7f62f1d8 SearchFilterHo         3220 True   False  True     True   True  True    True     
+0x7e40cda0 taskhost.exe           1412 True   False  True     True   True  True    True     
+0x7e9a1fe8 winlogon.exe            488 True   False  True     True   True  True    True     
+0x7e68d938 svchost.exe             816 True   False  True     True   True  True    True     
+0x7e4911d8 svchost.exe            1732 True   False  True     True   True  True    True     
+0x7e7ba758 spoolsv.exe            1320 True   False  True     True   True  True    True     
+0x7fbfa4e8 ZHegbkbzclan.e         2796 True   False  True     True   True  True    True     
+0x7e6c2d40 svchost.exe             948 True   False  True     True   True  True    True     
+0x7fcfbb60 svchost.exe            3568 True   False  True     True   True  True    True     
+0x7e9741d8 wininit.exe             348 True   False  True     True   True  True    True     
+0x7e7dd4e8 svchost.exe            1364 True   False  True     True   True  True    True     
+0x7e596120 conhost.exe             344 True   False  True     True   True  True    False    
+0x7fbb2850 NANTXrLoVlan.e         3292 True   False  True     True   True  True    True     
+0x7f60a6b8 czNbITlPGlan.e         3936 True   False  True     True   True  True    True     
+0x7e5e14e8 svchost.exe            1524 True   False  True     True   True  True    True     
+0x7e6101d8 svchost.exe             560 True   False  True     True   True  True    False    
+0x7e4814e8 vmicsvc.exe            1704 True   False  True     True   True  True    False    
+0x7f2414e8 conhost.exe            2852 True   False  True     True   True  True    True     
+0x7e988be0 services.exe            416 True   False  True     True   True  True    False    
+0x7e43b1d8 VBoxTray.exe           1488 True   False  True     True   True  True    True     
+0x7e9961d8 lsass.exe               432 True   False  True     True   True  True    False    
+0x7ff5c1d8 cygrunsrv.exe          1880 True   False  True     True   True  True    False    
+0x7fa2f4e8 SearchProtocol         3348 True   False  True     True   True  True    True     
+0x7e5bf1d8 sshd.exe                280 True   False  True     True   True  True    False    
+0x7fcbdef0 svchost.exe            3596 True   False  True     True   True  True    True     
+0x7e4804e8 vmicsvc.exe            1628 True   False  True     True   True  True    True     
+0x7fbe88f8 taskmgr.exe            1640 True   False  True     True   True  True    True     
+0x7e69aef8 svchost.exe             848 True   False  True     True   True  True    True     
+0x7f26d8a8 conhost.exe            1124 True   False  True     True   True  True    True     
+0x7e9b31d8 lsm.exe                 444 True   False  True     True   True  True    False    
+0x7fef6ef8 cygrunsrv.exe          1928 True   False  False    True   False True    False    2020-10-29 13:23:30 UTC+0000
+0x7e952710 csrss.exe               360 True   False  True     True   False True    True     
+0x7fa668a8 taskmgr.exe             632 True   False  False    True   False True    False    2020-10-29 16:20:07 UTC+0000
+0x7f2efe50 net1.exe               3804 True   False  False    True   False True    False    2020-10-29 16:20:55 UTC+0000
+0x7e839148 csrss.exe               312 True   False  True     True   False True    True     
+0x7f2f44e8 net1.exe                548 True   False  False    True   False True    False    2020-10-29 16:20:55 UTC+0000
+0x7ffc2df0 System                    4 True   False  True     True   False False   False    
+0x7ee1b4d8 smss.exe                236 True   False  True     True   False False   False    

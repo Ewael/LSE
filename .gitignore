@@ -1,0 +1,16 @@
+# .swp files when vim is open
+*.swp
+
+# gdb files
+.gdb_history
+peda-session-*
+
+# dump
+Recruitment/Phase_II/mem.elf
+Recruitment/Phase_II/dumped/
+Recruitment/Phase_II/cmd_outputs/strings*.out
+Recruitment/Phase_II/cmd_outputs/memap*.out
+
+# __pycache__
+__pycache__/
+.ipynb_checkpoints/

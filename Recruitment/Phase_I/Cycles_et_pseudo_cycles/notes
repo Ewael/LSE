@@ -1,0 +1,25 @@
+projet:
+1) algo = aes 128 ecb
+2) application A
+3) distance(T, L) = nombre bits differents
+   distance(T, L) = nombre caractères différents
+   distance(T, L) = longueur plus longue sous chaine commune
+4) borne depending on distance
+
+built little script to easily encrypt / decrypt with aes 128 ecb
+
+first version with bits and chars difference works correctly
+lets move on to jupyter, gonna be easier to explain
+
+gotta fix lcs for chars (weird behavior, might come from libdiff)
+-> fixed, was good but still cleaned padding
+then focus on lcs bit
+
+instead of focusing on lcs bit
+i could write an exploit / attack to try to find original msg again?
+-> does not work cause of lambda = temps de demarrage
+
+TODO: try with lower radius BUT LOT MORE sets
+TODO: modify loc values to equal glob values before le rendu -> DONE (lower values)
+
+bonus: script getTOC.py just for fun and profit

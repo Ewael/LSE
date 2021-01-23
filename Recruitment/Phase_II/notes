@@ -1,0 +1,21 @@
+4)
+
+sur le desktop on voit d'autres trucs:
+https://blog.cyberint.com/covid-19-ongoing-cyber-updates
+https://e.cyberint.com/hubfs/Cyberint-COVID-19\%20Threat\%20Landscape\%20Summary-Report.pdf
+APT17 ATTACKS KYRGYZSTAN OFFICIALS
+lets dump both `confax.exe` and `LBTServ.dll`
+
+\begin{lstlisting}
+$ LSE_vola dumpfiles -Q 0x000000007fd95370 --name -D dumped/ <- l'executable
+$ LSE_vola dumpfiles -Q 0x000000007e260cb8 --name -D dumped/ <- la dll
+\end{lstlisting}
+=> empty files
+
+linked with conhost and bitcoin mining?
+https://sensorstechforum.com/conhost-exe-cryptocurrency-miner-virus-how-to-detect-remove
+
+every strings  / signature come from https://en.wikipedia.org/wiki/HackTool.Win32.HackAV
+kaspersky lab
+
+--------------
