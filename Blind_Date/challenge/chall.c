@@ -3,6 +3,7 @@
 #include <unistd.h>
 
 // gcc -o chall chall.c -no-pie
+// gcc gcc -o chall chall.c -no-pie -Xlinker -rpath=./ -Xlinker -I./ld-2.27.so
 
 void vuln(void)
 {
